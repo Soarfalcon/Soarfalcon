@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soarfalcon
-- 👀 I’m interested in a Junior Web Development role.
-- 🌱 I’m currently learning Ruby In Rails.
+- 👀 I’m interested in an internship as a Cobol Developer
+- 🌱 I’m currently learning Cobol.
 - 💞️ I’m looking to collaborate on fun endeavours. 
 - 📫 How to reach me ru.campbell13@gmail.com.
 
